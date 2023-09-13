@@ -22,14 +22,14 @@ https://t.me/CrazyBliind<br>
 
 **NOTE:** 
 - Descargo de responsabilidad -
-Este programa es sólo para fines educativos.
+- Este programa es sólo para fines educativos.
 
-La forma en que utilice este programa es su responsabilidad.
+- La forma en que utilice este programa es su responsabilidad.
 
-No seré responsable de ninguna actividad ilegal.
+- No seré responsable de ninguna actividad ilegal.
 
 
-## <a id="content"></a>🌐 〢 Content
+## <a id="content"></a>
 - [🌌・Telegram](https://t.me/CrazyBliind)
 - [📱・Discord](https://discord.gg/TpJgEEWx)
 - [🔰・funciones](#features)
