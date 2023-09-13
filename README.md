@@ -93,12 +93,12 @@ No seré responsable de ninguna actividad ilegal.
 ```
 
 ## <a id="preview"></a>👁️ 〢 Preview
-![](https://github.com/Crazybliindz/ElmoLoggers/commit/90511e17cd84424716e6c1ed7dad8a3d8b831fd8#diff-a637ca85fe82464ebfddce628398130a35598be384c7f1c396aa30c07bcec893)
+![](https://github.com/Crazybliindz/ElmoLoggers/blob/main/imagen/1.png)
 
-![](https://github.com/Crazybliindz/ElmoLoggers/commit/90511e17cd84424716e6c1ed7dad8a3d8b831fd8#diff-fba1470972a82c1f92c78333ca9eddbcd4eb2bfa7d74d5c888fd101f978eeeda)
-![](https://github.com/Crazybliindz/ElmoLoggers/commit/90511e17cd84424716e6c1ed7dad8a3d8b831fd8#diff-711837f2143326f33c5ec1226c2ac1d8d965d186aba891f788a8e0b4015cc9b2)
-![](https://github.com/Crazybliindz/ElmoLoggers/commit/90511e17cd84424716e6c1ed7dad8a3d8b831fd8#diff-49794d493f6ed211a7e95ef9711e0e1eee16f28d72c84b833385ca305d7462bd)
-![](https://github.com/Crazybliindz/ElmoLoggers/commit/90511e17cd84424716e6c1ed7dad8a3d8b831fd8#diff-19f0495c0a33a4af3e84cb19d7ce97df3fe69eab2350e96cefc708aefa77efd9)
+![](https://github.com/Crazybliindz/ElmoLoggers/blob/main/imagen/2.png)
+![](https://github.com/Crazybliindz/ElmoLoggers/blob/main/imagen/3.png)
+![](https://github.com/Crazybliindz/ElmoLoggers/blob/main/imagen/4.png)
+![](https://github.com/Crazybliindz/ElmoLoggers/blob/main/imagen/5.png)
 
 
 
