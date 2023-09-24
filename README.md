@@ -8,7 +8,7 @@ ElmoLogger
   </kbd>
 </p>
 <p align="center">
-https://discord.gg/TpJgEEWx<br>
+https://discord.gg/kp8zSDedWK<br>
 </p>
 
 
