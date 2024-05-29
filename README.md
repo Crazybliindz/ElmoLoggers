@@ -20,9 +20,9 @@ https://t.me/CrazyBliind<br>
 </h1>
 
 **Quieres a prender sobre carding clonar tarjetas hableme al telegram** 
-Venta de tarjetas
-compra amazon 
-tienda onlinea 
+- Venta de tarjetas
+- compra amazon 
+- tienda onlinea 
 
 
 **NOTE:** 
