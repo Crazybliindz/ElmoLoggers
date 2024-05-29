@@ -19,6 +19,11 @@ https://t.me/CrazyBliind<br>
 🚧Keylogger, los registros se enviarán a su canal de Discord mediante un webhook.🚧
 </h1>
 
+**Quieres a prender sobre carding clonar tarjetas hableme al telegram** 
+Venta de tarjetas
+compra amazon 
+tienda onlinea 
+
 
 **NOTE:** 
 - Descargo de responsabilidad -
